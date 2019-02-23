@@ -22,8 +22,7 @@ if (isset($_POST)) {
     if (!in_array($_FILES['fileinput']['type'],$csvfile)) {
         echo "<script>
                 alert('File type incorrect! - $file ');
-                window.location.href = \"lab04.php\";
-              </script>>";
+                window.location.href = inindex.php              </script>>";
     }
     else {
         $name = strtoupper($firstname.' '.$lastname);

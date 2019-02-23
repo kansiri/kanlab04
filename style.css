@@ -1,0 +1,35 @@
+
+
+
+
+
+.i-am-centered {
+    margin: auto; max-width: 450px;
+
+}
+.headertext{
+    border-bottom: #ff4b5a solid 8px;
+    padding-bottom: 10px;
+    margin-bottom: 50px;
+
+}
+
+.intable{
+    padding: 30px 30px;
+}
+
+.btn-rounded{
+    border-radius: 10px;
+}
+.cardStyleMargin{
+    margin-top: 5px;
+    margin-bottom: 200px;
+}
+.aqua-gradient{
+    background-color: #2bbbad!important;
+    color: white;
+}
+
+
+
+
